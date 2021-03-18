@@ -1,39 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: scratchsuite
+repo: ugc-upptime
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: TCP ping
-    url: 1.1.1.1
-
+  - name: ScratchDB
+    url: https://scratchdb.lefty.one
+  - name: ScratchIndexer by DatOneLefty
+    url: https://indexer.lefty.one
+  - name: my-ocular by Jeffalo
+    url: https://my-ocular.jeffalo.net
+    
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /ugc-upptime
+  logoUrl: https://scratchsuite.github.io/assets/upptime-icon.svg
+  name: Scratch Suite
+  introTitle: "ScratchSuite"
+  introMessage: The Unofficial downtime tracker/pinger for scratcher-made websites like ScratchDB and my-ocular.
   navbar:
-    - title: Status
-      href: /
+    - title: Frontend
+      href: /frontend
+    - title: Backend
+      href: /backend
+    - title: Scratcher-Made Websites
+      href: /ugc-upptime
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is powered by [Upptime](https://upptime.js.org) and created for use for everybody at [Scratch](https://scratch.mit.edu). Scratch is developed by the Lifelong Kindergarten Group at the MIT Media Lab. See [scratch.mit.edu](https://scratch.mit.edu). ScratchStatus is not affilated in any way with Scratch. If you want to help improve this, comment on [my profile](https://scratch.mit.edu/users/9gr)
