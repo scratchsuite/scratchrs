@@ -1,8 +1,5 @@
-# Change these first
-owner: scratchsuite
+owner: functionalmetatable
 repo: scratchrs
-
-# Add your sites here
 sites:
   - name: ScratchDB
     url: https://scratchdb.lefty.one
@@ -12,7 +9,8 @@ sites:
     url: https://my-ocular.jeffalo.net
     
 status-website:
-  baseUrl: /ugc-upptime
+  theme: light
+  baseUrl: /scratchrs
   logoUrl: https://scratchsuite.github.io/assets/upptime-icon.svg
   name: Scratch Suite
   introTitle: "ScratchSuite"
@@ -23,7 +21,7 @@ status-website:
     - title: Backend
       href: /backend
     - title: Scratcher-Made Websites
-      href: /ugc-upptime
+      href: /scratchrs
     - title: GitHub
       href: https://github.com/$OWNER/$REPO/
 
