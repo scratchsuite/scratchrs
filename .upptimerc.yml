@@ -9,7 +9,7 @@ sites:
     url: https://my-ocular.jeffalo.net
     
 status-website:
-  theme: light
+  theme: ocean
   baseUrl: /scratchrs
   logoUrl: https://scratchsuite.github.io/assets/upptime-icon.svg
   name: Scratch Suite
