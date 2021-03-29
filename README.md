@@ -10,7 +10,7 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://functionalmetatable.github.io/scratchrs)
+[**Visit our status website →**](https://scratchsuite.github.io/scratchrs)
 
 ## 📄 License
 
