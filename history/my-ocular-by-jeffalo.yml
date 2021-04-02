@@ -1,7 +1,7 @@
 url: https://my-ocular.jeffalo.net
-status: up
-code: 200
-responseTime: 961
-lastUpdated: 2021-04-01T23:27:14.779Z
+status: down
+code: 502
+responseTime: 1410
+lastUpdated: 2021-04-02T06:49:02.102Z
 startTime: Thu Mar 18 2021 17:14:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
