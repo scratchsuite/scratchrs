@@ -3,12 +3,16 @@ repo: scratchrs
 sites:
   - name: ScratchDB by DatOneLefty
     url: https://scratchdb.lefty.one
+    maxResponseTime: 5000
   - name: ScratchIndexer by DatOneLefty
     url: https://indexer.lefty.one
+    maxResponseTime: 5000
   - name: my-ocular by Jeffalo
     url: https://my-ocular.jeffalo.net
+    maxResponseTime: 5000
   - name: FluffyScratch by herohamp
     url: https://fluffyscratch.hampton.pw
+    maxResponseTime: 5000
     
 status-website:
   theme: ocean
