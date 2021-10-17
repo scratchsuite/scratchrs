@@ -1,7 +1,7 @@
 url: https://indexer.lefty.one
-status: down
+status: degraded
 code: 404
-responseTime: 148
-lastUpdated: 2021-10-16T23:10:40.774Z
+responseTime: 18516
+lastUpdated: 2021-10-17T04:04:54.733Z
 startTime: Thu Mar 18 2021 17:14:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
