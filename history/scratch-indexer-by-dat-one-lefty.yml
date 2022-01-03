@@ -1,7 +1,7 @@
 url: https://indexer.lefty.one
-status: up
+status: degraded
 code: 200
-responseTime: 132
-lastUpdated: 2022-01-02T23:11:24.954Z
+responseTime: 5029
+lastUpdated: 2022-01-03T19:02:13.190Z
 startTime: Thu Mar 18 2021 17:14:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
