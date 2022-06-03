@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1174,
-    "timeDay": 1707,
+    "timeDay": 1146,
     "timeWeek": 1339,
     "timeMonth": 1153,
     "timeYear": 1193,
@@ -58,7 +58,7 @@
     "url": "https://fluffyscratch.hampton.pw",
     "icon": "https://favicons.githubusercontent.com/fluffyscratch.hampton.pw",
     "slug": "fluffy-scratch-by-herohamp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,9 +66,9 @@
     "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 420,
-    "timeWeek": 528,
-    "timeMonth": 575,
-    "timeYear": 408,
+    "timeWeek": 527,
+    "timeMonth": 574,
+    "timeYear": 409,
     "dailyMinutesDown": {}
   }
 ]
