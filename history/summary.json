@@ -58,7 +58,7 @@
     "url": "https://fluffyscratch.hampton.pw",
     "icon": "https://favicons.githubusercontent.com/fluffyscratch.hampton.pw",
     "slug": "fluffy-scratch-by-herohamp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 451,
     "timeDay": 310,
-    "timeWeek": 609,
-    "timeMonth": 543,
+    "timeWeek": 607,
+    "timeMonth": 542,
     "timeYear": 467,
     "dailyMinutesDown": {}
   }
