@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 1104,
     "timeDay": 204,
-    "timeWeek": 239,
-    "timeMonth": 686,
+    "timeWeek": 234,
+    "timeMonth": 695,
     "timeYear": 1273,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 1518,
     "timeDay": 198,
-    "timeWeek": 250,
-    "timeMonth": 425,
+    "timeWeek": 241,
+    "timeMonth": 431,
     "timeYear": 1766,
     "dailyMinutesDown": {}
   },
@@ -48,8 +48,8 @@
     "uptimeYear": "100.00%",
     "time": 1173,
     "timeDay": 1059,
-    "timeWeek": 1101,
-    "timeMonth": 1175,
+    "timeWeek": 1131,
+    "timeMonth": 1166,
     "timeYear": 1164,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://fluffyscratch.hampton.pw",
     "icon": "https://favicons.githubusercontent.com/fluffyscratch.hampton.pw",
     "slug": "fluffy-scratch-by-herohamp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,8 +66,8 @@
     "uptimeYear": "100.00%",
     "time": 448,
     "timeDay": 469,
-    "timeWeek": 435,
-    "timeMonth": 512,
+    "timeWeek": 437,
+    "timeMonth": 511,
     "timeYear": 464,
     "dailyMinutesDown": {}
   }
