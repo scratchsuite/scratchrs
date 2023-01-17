@@ -14,7 +14,7 @@
     "timeDay": 130,
     "timeWeek": 200,
     "timeMonth": 4723,
-    "timeYear": 1277,
+    "timeYear": 1275,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://indexer.lefty.one",
     "icon": "https://favicons.githubusercontent.com/indexer.lefty.one",
     "slug": "scratch-indexer-by-dat-one-lefty",
-    "status": "down",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1139,
-    "timeDay": 205,
-    "timeWeek": 200,
-    "timeMonth": 3267,
-    "timeYear": 894,
+    "time": 1170,
+    "timeDay": 9323,
+    "timeWeek": 2480,
+    "timeMonth": 3533,
+    "timeYear": 934,
     "dailyMinutesDown": {}
   },
   {
