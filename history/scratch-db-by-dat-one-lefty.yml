@@ -1,7 +1,7 @@
 url: https://scratchdb.lefty.one
-status: up
-code: 200
-responseTime: 463
-lastUpdated: 2023-02-18T23:10:51.181Z
+status: degraded
+code: 502
+responseTime: 5444
+lastUpdated: 2023-02-19T09:35:24.244Z
 startTime: Thu Mar 18 2021 18:20:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
